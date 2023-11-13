@@ -1,0 +1,8 @@
+# Third party files
+node_modules
+
+# Build files
+build
+
+# Other generated files
+package-lock.json
