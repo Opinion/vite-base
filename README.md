@@ -20,6 +20,9 @@ My biggest gripe with vite is that it doesn't use `./src` out of the box. vite-b
    * Added `isProduction` check
    * Added `.env` loading based on current mode
 
+## Preview
+![vite-base#tailwindcss preview](src/static/images/preview.png)
+
 ## Get started
  1. Download
  2. `npm install`
