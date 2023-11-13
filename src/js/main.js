@@ -1,3 +1,4 @@
+import '../styles/tailwind.css'
 import '../styles/main.css'
 import { setupJoke } from './jokes'
 
