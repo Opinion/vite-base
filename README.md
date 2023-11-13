@@ -12,6 +12,7 @@ My biggest gripe with vite is that it doesn't use `./src` out of the box. vite-b
 ## Features
 
 -   Vite configured for vanilla Javascript
+-   Configured with prettier
 -   (Optional) Configured with TailwindCSS
 -   Code moved to `./src`
     -   Javascript files in `./src/js`
